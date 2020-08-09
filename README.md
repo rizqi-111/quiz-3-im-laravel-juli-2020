@@ -92,4 +92,5 @@ Buatlah sebuah route dengan alamat url ```'/karyawan'```. Di dalam route tersebu
 
 
 
+![Capture](https://user-images.githubusercontent.com/57494835/89734336-b925f700-da85-11ea-97ea-32e2406400a5.JPG)
 
